@@ -1,0 +1,8 @@
+I:\Genetic\PowerSources\PowerSources\bin\Debug\PowerSources.exe
+I:\Genetic\PowerSources\PowerSources\bin\Debug\PowerSources.pdb
+I:\Genetic\PowerSources\PowerSources\obj\Debug\ResolveAssemblyReference.cache
+I:\Genetic\PowerSources\PowerSources\obj\Debug\PowerSources.Form1.resources
+I:\Genetic\PowerSources\PowerSources\obj\Debug\PowerSources.Properties.Resources.resources
+I:\Genetic\PowerSources\PowerSources\obj\Debug\PowerSources.csproj.GenerateResource.Cache
+I:\Genetic\PowerSources\PowerSources\obj\Debug\PowerSources.exe
+I:\Genetic\PowerSources\PowerSources\obj\Debug\PowerSources.pdb
